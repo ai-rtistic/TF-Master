@@ -15,3 +15,48 @@ Studying Tensorflow Tutorial, API
 |2021.08.04|김준일|데이터 증강|Data Augmentation|[:link:](https://github.com/jaejunlee96/TF-Master/blob/main/tutorial/Data_Augmentation.ipynb)|
 |2021.08.04|이상훈|문맥을 이해하는 악성 댓글 탐지|Toxic Comment Classification|[:link:](https://www.notion.so/2-0-AI-7cb6b91d1bdd4e0cad4715f35d4d8437)|
 ||||
+
+## 참고 페이지
+
+**Tensorflow**
+
+[TensorFlow Core | Machine Learning for Beginners and Experts](https://www.tensorflow.org/overview)
+
+- 참고
+
+
+- Tensorflow API Tutorial
+
+    [Tutorials | TensorFlow Core](https://www.tensorflow.org/tutorials/)
+
+- Tensorflow API Guide
+
+    [Guide | TensorFlow Core](https://www.tensorflow.org/guide)
+
+- Tensorflow API Documents
+
+    [TensorFlow API Versions | TensorFlow Core v2.5.0](https://www.tensorflow.org/versions)
+
+**Keras**
+
+[Keras: the Python deep learning API](https://keras.io/)
+
+- 참고
+
+    [https://keras.io/ko/](https://keras.io/ko/)
+
+- Keras API Tutorial
+
+    [Keras documentation: Getting started](https://keras.io/getting_started/)
+
+- Keras API Guide
+
+    [Keras documentation: Developer guides](https://keras.io/guides/)
+
+- Keras API Reference
+
+    [Keras documentation: Keras API reference](https://keras.io/api/)
+
+- Keras Code-examples
+
+    [Keras documentation: Code examples](https://keras.io/examples/)

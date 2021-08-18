@@ -12,9 +12,12 @@ Studying Tensorflow Tutorial, API
 2021.07.21|이재준|이미지 분류|Image Classification||
 |2021.07.28|김보경|불균형 데이터 분류|Imbalanced Classification|[:link:](https://github.com/jaejunlee96/TF-Master/blob/main/tutorial/Imbalanced_Classification.ipynb)|
 |2021.07.28|황동호|이미지 분할|Image Segmentation||
-|2021.08.04|김준일|데이터 증강|Data Augmentation|[:link:](https://github.com/jaejunlee96/TF-Master/blob/main/tutorial/Data_Augmentation.ipynb)|
-|2021.08.04|이상훈|문맥을 이해하는 악성 댓글 탐지|Toxic Comment Classification|[:link:](https://www.notion.so/2-0-AI-7cb6b91d1bdd4e0cad4715f35d4d8437)|
-||||
+|2021.08.11|김준일|데이터 증강|Data Augmentation|[:link:](https://github.com/jaejunlee96/TF-Master/blob/main/tutorial/Data_Augmentation.ipynb)|
+|2021.08.11|이상훈|문맥을 이해하는 악성 댓글 탐지|Toxic Comment Classification|[:link:](https://www.notion.so/2-0-AI-7cb6b91d1bdd4e0cad4715f35d4d8437)|
+|2021.08.18|이주환|이미지 노이즈 제거|Convolutional autoencoder for image denoising|[:link:]()|
+|2021.08.18|박은영|과대적합과 과소적합|Overfit and Underfit|[:link:]()|
+||||||
+
 
 ## 참고 페이지
 

@@ -16,7 +16,9 @@ Studying Tensorflow Tutorial, API
 |21.08.11|이상훈|문맥을 이해하는 악성 댓글 탐지|Toxic Comment Classification|[:link:](https://www.notion.so/2-0-AI-7cb6b91d1bdd4e0cad4715f35d4d8437)|
 |21.08.18|이주환|이미지 노이즈 제거|Autoencoder for Image Denoising|[:link:]()|
 |21.08.18|박은영|과대적합과 과소적합|Overfitting and Underfitting|[:link:]()|
-||||||
+|21.08.25|이재준|Autoencoder를 사용한 시계열 이상 탐지|Timeseries Anomaly Detection|[:link:](https://github.com/jaejunlee96/TF-Master/blob/main/tutorial/Timeseries_Anomaly_Detection_using_Autoencoder.ipynb)|
+|21.08.25|김보경|ML의 최신 트렌드 예|ML Trend||
+
 
 
 ## 참고 페이지

@@ -19,7 +19,7 @@ Studying Tensorflow Tutorial, API
 |21.08.25|이재준|Autoencoder를 사용한 시계열 이상 탐지|Timeseries Anomaly Detection|[:link:](https://github.com/jaejunlee96/TF-Master/blob/main/tutorial/Timeseries_Anomaly_Detection_using_Autoencoder.ipynb)|
 |21.08.25|김보경|ML의 최신 트렌드 예|ML Trend||
 |21.09.01|정현재|텐서와 데이터셋|tf.Tensor & tf.data.Dataset||
-|21.09.01|박은영|음성인식|Speach Recognition||
+|21.09.01|박은영|음성인식|Speach Recognition|[:link:](https://github.com/jaejunlee96/TF-Master/blob/main/tutorial/Speaker_Recognition.ipynb)|
 
 
 
